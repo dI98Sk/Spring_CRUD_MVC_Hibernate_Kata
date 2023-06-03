@@ -1,2 +1,2 @@
-# Spring_CRUD_MVC_Hibernate_Kata
+# Task_2.3.1_Spring_CRUD
  
